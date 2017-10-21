@@ -1,6 +1,6 @@
 // Import weapon data.
 const Discord = require("discord.js");
-const weaponData = require("../splatoon2-data-master/main.json");
+const weaponData = require("../splatoon2-data/main.json");
 let color = 0;
 
 exports.run = (client, message, args) => {

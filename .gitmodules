@@ -1,0 +1,3 @@
+[submodule "splatoon2-data"]
+	path = splatoon2-data
+	url = https://github.com/mntone/splatoon2-data
