@@ -20,8 +20,8 @@ exports.run = (client, message, args) => {
 
 function asdf(message, args, data) {
   const a = {
-    "turf": [data.regular, "#19D719", "#215121", "battle-regular.01b5ef.png"],
-    "ranked": [data.gachi, "#F54910", "#FF470F", "battle-ranked.78832c.png"],
+    "turf": [data.regular, "#8ec902", "#19D719", "battle-regular.01b5ef.png"],
+    "ranked": [data.gachi, "#f36c01", "#f54910", "battle-ranked.78832c.png"],
     "league": [data.league, "#F02D7D", "#B02C5B", "battle-league.95f523.png"]
   }
   let mode = a[args[1]];
