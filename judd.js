@@ -6,7 +6,8 @@ const config = require('./config.json');
 // Set responseObject.
 let responseObject = {
   "weapon": "./commands/weapon.js",
-  "stages": "./commands/stages.js"
+  "stages": "./commands/stages.js",
+  "profile": "./commands/profile.js"
 };
 // Login with secret token.
 client.login(config.token);
