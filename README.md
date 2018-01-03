@@ -12,7 +12,7 @@ Judd is a discord bot created for Splatoon 2 players! Some of our current featur
 ### Dependencies
 
 * [Splatoon2Data] - Database of all weapons and their stats.
-* [Discord.js] - Interactivity with Discord throught bots.
+* [Discord.js] - Interactivity with Discord through bots.
 
    [Discord.js]: <https://github.com/hydrabolt/discord.js>
    [Splatoon2Data]: <https://github.com/mntone/splatoon2-data>
