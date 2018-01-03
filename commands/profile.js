@@ -111,6 +111,7 @@ function main(client, message, args) {
     .then(() => {
       // Profile updated successfully.
       message.channel.send("Saved your friend code as " + updateProfile.data.friendCode);
+      edited = false;
     });
   }
 }
